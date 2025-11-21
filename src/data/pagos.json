@@ -1,0 +1,18 @@
+[
+  {
+    "id": 9001,
+    "pedido_id": 501,
+    "monto": 15000,
+    "metodo": "Transferencia",
+    "fecha": "2025-10-27",
+    "confirmado": false
+  },
+  {
+    "id": 9002,
+    "pedido_id": 502,
+    "monto": 9800,
+    "metodo": "Efectivo",
+    "fecha": "2025-09-20",
+    "confirmado": true
+  }
+]

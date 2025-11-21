@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Maní con sal",
+    "precio_mayorista": 1800,
+    "precio_minorista": 2200,
+    "stock": 50,
+    "proveedor": "Frutos Secos Ltda",
+    "unidad": "kg",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Almendras",
+    "precio_mayorista": 6800,
+    "precio_minorista": 7500,
+    "stock": 25,
+    "proveedor": "Natural Nuts",
+    "unidad": "kg",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "Mani Mix Salado",
+    "precio_mayorista": 7500,
+    "precio_minorista": 8200,
+    "stock": 15,
+    "proveedor": "HealthyMix",
+    "unidad": "kg",
+    "activo": true
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 501,
+    "cliente_id": 202,
+    "telefono": "+56987654321",
+    "estado": "Pendiente",
+    "canal": "whatsapp",
+    "fecha": "2025-10-27",
+    "total": 15000,
+    "detalles": [
+      {
+        "producto": "Maní tostado con sal",
+        "cantidad": 2,
+        "precio_unitario": 2200
+      },
+      {
+        "producto": "Almendra natural",
+        "cantidad": 1,
+        "precio_unitario": 7500
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "cliente_id": 202,
+    "telefono": "+56987654321",
+    "estado": "Entregado",
+    "canal": "whatsapp",
+    "fecha": "2025-09-20",
+    "total": 9800,
+    "detalles": [
+      {
+        "producto": "Mix frutos secos premium",
+        "cantidad": 1,
+        "precio_unitario": 8200
+      }
+    ]
+  }
+]

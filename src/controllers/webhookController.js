@@ -12,7 +12,7 @@ export const verificarWebhook = (req, res) => {
     console.log("✅ Webhook verificado correctamente");
     return res.status(200).send(challenge);
   }
-  
+
   console.log("❌ Token de verificación incorrecto");
   return res.sendStatus(403);
 };
